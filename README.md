@@ -19,7 +19,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>LARBI OULHADJ</h1>
+            <h1>MLH tech </h1>
             <p>Madrid, Spain | EU Work Permit, Emirates ID holder</p>
             <div class="contact">
                 <!-- Contact details like phone and email are intentionally omitted -->
